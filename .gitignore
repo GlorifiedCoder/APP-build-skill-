@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+.DS_Store
+.idea/
+.vscode/
+build/
+dist/
+coverage/
+*.log
